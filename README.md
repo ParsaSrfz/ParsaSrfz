@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @ParsaSrfz
+- 👋 Hi, I’m @parsasarfarazi
 - 👀 I’m interested in Web3.0 developement
-- 🌱 I’m currently learning React and Solidity
+- 🌱 I’m currently learning hardhat and Solidity
 - 📫 Contact me : parsasarfarazi@gmail.com
 
 <!---
